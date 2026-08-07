@@ -148,7 +148,48 @@ For **article** word count by type (news, how-to, listicle, pillar, etc.), see *
 **Answer-first** (direct answer in first 40–60 words after H2) supports both Featured Snippets and GEO. For article-level GEO (TL;DR, Key Takeaways, QAE pattern), see **article-content** and **generative-engine-optimization**. For Featured Snippet formats and optimization, see **featured-snippet**.
 
 ---
+---
 
+## Performance Data Analysis (Optional)
+
+When Google Search Console or Google Analytics data is provided, include a dedicated analysis section.
+
+### Analyze Search Console
+
+Identify:
+
+- Pages with high impressions but low CTR
+- Queries ranking in Positions 8–20
+- Pages losing clicks or impressions
+- Keyword cannibalization
+- Underperforming title tags
+- Underperforming meta descriptions
+- Pages requiring content refresh
+- Internal linking opportunities
+- Queries not adequately covered by existing content
+
+### Analyze GA4
+
+Review:
+
+- Organic landing pages
+- Pages with high engagement
+- Pages with poor engagement
+- High exit pages
+- Low-converting content
+- Conversion-driving content
+- Traffic trends
+- User behavior signals
+
+### Recommendation Priority
+
+Prioritize recommendations using this order:
+
+1. Existing pages with high impressions but low CTR
+2. Existing pages ranking in Positions 8–20
+3. High traffic pages with poor engagement
+4. Pages losing rankings
+5. New content opportunities
 ## Content Audit Checklist
 
 For **article** content audit (hook, QAE, product connection, CTA, references, gaps), see **article-content**. This skill covers generic content optimization (H2 keywords, multimedia, keyword density).
@@ -163,15 +204,4 @@ For **article** content audit (hook, QAE, product connection, CTA, references, g
 - **Structure** (tables, lists) for Featured Snippet opportunity; see **featured-snippet**
 - **Multimedia** checklist (images per **image-optimization**; tables, lists)
 
-## Related Skills
 
-- **heading-structure**: H1–H6 hierarchy; H2 keyword placement
-- **content-strategy**: Topic clusters, pillar + cluster
-- **keyword-research**: Target keywords inform placement
-- **featured-snippet**: Snippet formats, structure; answer-first
-- **howto-section-generator**: How-to step sections; `<ol>` lists; HowTo vs FAQ
-- **eeat-signals**: E-E-A-T; original images, trust
-- **image-optimization**: Alt, captions, format, LCP, responsive, image sitemap
-- **video-optimization**: Video SEO; VideoObject; video sitemap
-- **competitor-research**: Competitor length and structure as reference
-- **article-content**: Article word count by type; Content Audit Checklist; article body creation
